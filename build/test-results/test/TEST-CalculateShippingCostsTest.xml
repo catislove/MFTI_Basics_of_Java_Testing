@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculateShippingCostsTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-11-14T17:16:22" hostname="DESKTOP-AHMJMU4" time="0.75">
+  <properties/>
+  <testcase name="Large Cargo Shipping Cost Calculation Test" classname="CalculateShippingCostsTest" time="0.098"/>
+  <testcase name="[1] 1, 450" classname="CalculateShippingCostsTest" time="0.057"/>
+  <testcase name="[2] 2, 450" classname="CalculateShippingCostsTest" time="0.004"/>
+  <testcase name="[3] 5, 500" classname="CalculateShippingCostsTest" time="0.005"/>
+  <testcase name="[4] 10, 500" classname="CalculateShippingCostsTest" time="0.009"/>
+  <testcase name="[5] 15, 600" classname="CalculateShippingCostsTest" time="0.002"/>
+  <testcase name="[6] 29, 600" classname="CalculateShippingCostsTest" time="0.002"/>
+  <testcase name="Fragile load over-distance test" classname="CalculateShippingCostsTest" time="0.012"/>
+  <testcase name="Test calculation of shipping cost for regular cargo" classname="CalculateShippingCostsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
